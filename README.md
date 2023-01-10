@@ -3,6 +3,7 @@
 - 🌱 Me gusta estar aprendiendo todos los días
 - ✨ Mi conocimientos en programación: NodeJS, AngularJS, JavaScrip, Java, Php
 - ✨ Bases de datos: Postgresql, mysql, mongo(bajo)
+- 👀 Mi Portafolio: https://potafolio-ronaldo.netlify.app/home
 <!---
 ronaldo071515/ronaldo071515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

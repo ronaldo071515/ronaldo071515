@@ -4,7 +4,7 @@
 - 🌱 Me gusta estar aprendiendo todos los días
 - ✨ Mi conocimientos en programación: NodeJS, AngularJS, JavaScrip, Java, Php
 - ✨ Bases de datos: Postgresql, mysql, mongo(bajo)
-- 👀 Mi Portafolio: https://potafolio-ronaldo.netlify.app/home
+- 👀 [Mi Portafolio](https://potafolio-ronaldo.netlify.app/home)
 
 
 ## 🌐 Socials:

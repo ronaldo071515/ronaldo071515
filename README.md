@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hola, soy  ronaldo torres cáceres -> @ronaldo071515
+- 👋 Hola, soy  ronaldo torres cáceres
 - 👀 Estoy interesado en programación movil, web, me encanta programar
 - 🌱 Me gusta estar aprendiendo todos los días
 - ✨ Mi conocimientos en programación: NodeJS, AngularJS, JavaScrip, Java, Php

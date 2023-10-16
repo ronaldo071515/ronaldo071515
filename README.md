@@ -2,7 +2,7 @@
 - 👋 Hola, soy  ronaldo torres cáceres
 - 👀 Estoy interesado en programación movil, web, me encanta programar
 - 🌱 Me gusta estar aprendiendo todos los días
-- ✨ Mi conocimientos en programación: NodeJS, AngularJS, JavaScrip, Java, Php
+- ✨ Mi conocimientos en programación: JavaScript, NodeJS, AngularJS, Java, PHP
 - ✨ Bases de datos: Postgresql, mysql, mongo(bajo)
 - 👀 [Mi Portafolio](https://potafolio-ronaldo.netlify.app/home)
 
